@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\views\\personal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\views\\personal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\app_ventas_ds504_cf.csproj|c:\\users\\alumno-eti\\documents\\cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32DAED6B-F022-4698-AFB8-C4E3A85DC45A}|app_ventas_ds504_cf\\app_ventas_ds504_cf.csproj|solutionrelative:app_ventas_ds504_cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\appsettings.json",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\appsettings.json",
+              "RelativeToolTip": "app_ventas_ds504_cf\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T19:07:16.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Views\\Marca\\Index.cshtml",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Views\\Marca\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Views\\Marca\\Index.cshtml",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Views\\Marca\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:10:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:34:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Views\\Personal\\Index.cshtml",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Views\\Personal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Views\\Personal\\Index.cshtml",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Views\\Personal\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:31:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonalController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Controllers\\PersonalController.cs",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Controllers\\PersonalController.cs",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Controllers\\PersonalController.cs",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Controllers\\PersonalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:27:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Models\\Personal.cs",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Models\\Personal.cs",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Models\\Personal.cs",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Models\\Personal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:14:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "web_ventas_ds504_cf.csproj",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj",
+              "RelativeToolTip": "app_ventas_ds504_cf\\web_ventas_ds504_cf.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T19:07:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Controllers\\MarcaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:56:19.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Models\\Marca.cs",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Models\\Marca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:52:03.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Program.cs",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Program.cs",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:07:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\libman.json",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\libman.json",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\libman.json",
+              "RelativeToolTip": "app_ventas_ds504_cf\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T20:20:14.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "app_ventas_ds504_cf\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alumno-ETI\\Documents\\Cesar\\app_ventas_ds504_cf\\app_ventas_ds504_cf\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "app_ventas_ds504_cf\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:17:50.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
